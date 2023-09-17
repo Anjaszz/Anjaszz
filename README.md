@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anjaszz
+- 👋 Hi, I’m Anjas Rani
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
