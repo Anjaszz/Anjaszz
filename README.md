@@ -25,7 +25,7 @@
 - MongoDB, MySQL
 
 **Mobile**
-- Flutter
+- Ionic
 
 **Tools & Others**
 - Git & GitHub, Postman, Figma, Firebase, AWS
