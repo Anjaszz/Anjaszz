@@ -70,7 +70,9 @@ React.js app using API from EQuran.id with murottal audio.
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https:/www.linkedin.com/in/anjas-rani-562396212" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/anjas-rani-562396212" target="_blank">LinkedIn</a> •
+   <a href="https://medium.com/@anjasrani" target="_blank">Medium</a> •
+  <a href="https://digitaldev4.blogspot.com" target="_blank"> My Blog</a> •
   <a href="https://anjasrani.my.id" target="_blank">Portfolio Website</a>
 </p>
 
