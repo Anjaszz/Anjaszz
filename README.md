@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Anjas Rani 👋</h1>
+<h1 align="center">
+  <img src="/name.svg" alt="Anjas Rani" />
+</h1>
 <p align="center">
-  <b>Web Developer | Machine Learning Enthusiast | Tech Learner</b>
+  <b>Web Developer | Machine Learning Enthusiast | Tech Enthusiast</b>
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🌱 I'm Frontend Developer
-- 💻 Experienced in building web apps with **React.js, Tailwind CSS, Express.js,Angular**
-- 🧩 Interested in **AI, Deep Learning, and Web Development**
-- ✨ Love building useful tools (PDF Magic, Harvest Images, SIMAS, My Quran)
+- 💻 Experienced in building web apps with **React.js, Tailwind CSS, Express.js,Angular,ionic**
+- 🧩 Interested in **AI, Machine Learning, Deep Learning, and Web Development**
+- ✨ Love building useful tools
 
 ---
 
@@ -51,7 +53,7 @@ Bulk download high-quality photos using the **Unsplash API**.
 Built with React.js + Tailwind.
 
 #### 📱 My Quran  
-React.js app using API from EQuran.id with murottal audio.
+React.js app using API  with murottal audio.
 
 ---
 
